@@ -1,14 +1,17 @@
-##Hello World! 
+## Hello World!
+
 I'm Phúc. I'm studying **Computer Science / Software Engineering Student** at Ho Chi Minh University of Technology and wanna be a **Full-Stack Developer**
 I’m currently focused on building practical software projects and strengthening my skills in **frontend, backend, databases, and software engineering**.
 ---
 ## About Me
+
 - Building projects with **React, Node.js, Express, PostgreSQL, and REST APIs**
 - Using **Docker and GitHub** for development and project management
 - Practicing **Data Structures and Algorithms with C++**
 - Interested in **AI and solving real-life problems through software**
 ---
 ## Tech Stack
+
 # Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -29,10 +32,12 @@ I’m currently focused on building practical software projects and strengthenin
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ---
 ## LeetCode
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/PhucLe2006)](https://leetcode.com/PhucLe2006)
 I use LeetCode to practice **problem solving, algorithms, and data structures**.
 ---
 ## Featured Projects
+
 # Integrated English Learning Platform
 A full-stack learning platform designed for English/IELTS learners.
 **Technologies:** React · Node.js · Express · PostgreSQL
@@ -50,6 +55,7 @@ My collection of solutions for algorithm and data-structure problems.
 ---
 
 ##  Contact & Social
+
 - **Email:** `ltrongphuc06@gmail.com`
 - **LinkedIn:** `https://www.linkedin.com/in/YOUR_USERNAME`
 - **Facebook:** `https://www.facebook.com/phuc.le.106729/?locale=vi_VN`
