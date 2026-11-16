@@ -45,6 +45,10 @@ I'm currently focused on building practical software projects and strengthening 
 
 I use LeetCode to practice **problem solving, algorithms, and data structures**.
 
+### Achievements
+
+<img src="./assets/100leet.png" alt="LeetCode 100 Days Badge" width="100">
+
 ## Featured Projects
 
 ### Integrated English Learning Platform
