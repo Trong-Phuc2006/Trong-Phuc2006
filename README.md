@@ -41,13 +41,20 @@ I'm currently focused on building practical software projects and strengthening 
 
 ## LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PhucLe2006)](https://leetcode.com/PhucLe2006)
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/PhucLe2006">
+        <img src="https://leetcard.jacoblin.cool/PhucLe2006" alt="LeetCode Stats">
+      </a>
+    </td>
+    <td>
+      <img src="./assets/100leet.png" alt="LeetCode 100 Days Badge" width="180">
+    </td>
+  </tr>
+</table>
 
 I use LeetCode to practice **problem solving, algorithms, and data structures**.
-
-### Achievements
-
-<img src="./assets/100leet.png" alt="LeetCode 100 Days Badge" width="100">
 
 ## Featured Projects
 
