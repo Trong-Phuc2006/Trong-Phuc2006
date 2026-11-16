@@ -49,7 +49,7 @@ I'm currently focused on building practical software projects and strengthening 
       </a>
     </td>
     <td>
-      <img src="./assets/100leet.png" alt="LeetCode 100 Days Badge" width="180">
+      <img src="./assets/100_leet.png" alt="LeetCode 100 Days Badge" width="180">
     </td>
   </tr>
 </table>
